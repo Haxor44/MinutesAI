@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For support or questions, please open an issue on the GitHub repository or contact [your-email@example.com].
+For support or questions, please open an issue on the GitHub repository or contact [evolmalek04@gmail.com].
